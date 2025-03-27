@@ -12,6 +12,6 @@ while (n != g) :
         
     else :
         print("smaller number please")
-9
+
 
 print(f"wow you have guessed the correct number {g} in {count} attempts")
